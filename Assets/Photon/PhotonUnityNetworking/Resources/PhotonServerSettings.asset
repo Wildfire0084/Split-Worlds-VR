@@ -16,10 +16,10 @@ MonoBehaviour:
     AppIdRealtime: 400abbcb-a8ce-4733-901e-5c1bdf002bb6
     AppIdFusion: 
     AppIdChat: 
-    AppIdVoice: 
+    AppIdVoice: 66085364-1f9b-47c4-bcdf-12a4caff52f2
     AppVersion: 
     UseNameServer: 1
-    FixedRegion: 
+    FixedRegion: us
     Server: 
     Port: 0
     ProxyServer: 
@@ -43,6 +43,11 @@ MonoBehaviour:
   - Fire
   - RespawnSpaceship
   - RPCRefreshPlayerValues
+  - ResetGameRPC
+  - TaggedRPC
+  - TagSoundRPC
+  - TagThisPlayer
+  - UnTaggedRPC
   DisableAutoOpenWizard: 1
   ShowSettings: 0
   DevRegionSetOnce: 0
