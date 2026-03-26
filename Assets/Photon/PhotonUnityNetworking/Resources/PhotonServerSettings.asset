@@ -48,6 +48,7 @@ MonoBehaviour:
   - TagSoundRPC
   - TagThisPlayer
   - UnTaggedRPC
+  - KickPlayer
   DisableAutoOpenWizard: 1
   ShowSettings: 0
   DevRegionSetOnce: 0
