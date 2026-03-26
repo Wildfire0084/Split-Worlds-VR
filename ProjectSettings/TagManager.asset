@@ -6,6 +6,11 @@ TagManager:
   tags:
   - HandTag
   - Body
+  - SpectatorCamera
+  - Mirror
+  - Metal
+  - wood
+  - default sound
   layers:
   - Default
   - TransparentFX
