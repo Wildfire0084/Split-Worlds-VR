@@ -11,6 +11,8 @@ TagManager:
   - Metal
   - wood
   - default sound
+  - TagHitBox
+  - Tag hit box
   layers:
   - Default
   - TransparentFX
